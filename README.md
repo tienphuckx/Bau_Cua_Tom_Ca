@@ -13,6 +13,6 @@ Have fun with Qt QML by implementing this Lottery Game!
 # Cá
 <img src="./CA.PNG" alt="Lottery Game Screenshot" width="400"/>
 
-#Hươu
+# Hươu
 <img src="./HUOU.PNG" alt="Lottery Game Screenshot" width="400"/>
 
